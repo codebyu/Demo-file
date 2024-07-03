@@ -1,7 +1,6 @@
-public class demo{
-    public static void main(String[] args) {
+public class demo {
+    public static void main(String[] args)
 
-        System.out.println("Darshan Jain");
-
+    {  System.out.println("Darshan Jain Akku");
     }
 }
