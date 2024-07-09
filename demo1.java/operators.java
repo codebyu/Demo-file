@@ -10,5 +10,18 @@ class operators {
     
     System.out.println(a/b);
     System.out.println("Ye hai Hmara Program");
+    int d = 50;
+
+    if (d > 10) {  
+    System.out.println("Your value is greater than 10");
+    }
+
+    else { System.out.println("Your value is less than 10");
+    
+    }
+   
+   
+   
+   
    }
 }
